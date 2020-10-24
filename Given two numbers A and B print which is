@@ -1,0 +1,6 @@
+Given two numbers A and B print which is larger
+Given two passwords print "Wrong Password" if both the passwords doesn't match. "Valid Password" if both the passwords are same.
+Given a number if it is odd print "Odd Number" other wise print "Even Number"
+Given the year of birth, if the age is between 13 and 19 (both included) print Teenage and in between 20 and 29 (both included) print Twenties
+Given the age of three people A B C (all different) Print the names in descending order (First Line) ascending order (Second Line)
+Given two numbers A and B print "Equal" if both are equal otherwise print "Different" (Us
